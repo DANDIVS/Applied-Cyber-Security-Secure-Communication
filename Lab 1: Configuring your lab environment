@@ -1,0 +1,10 @@
+Lab 1: Configuring your lab environment
+Recommended Lab Setup:
+- A hypervisor to allow us run virtual machines.
+- VirtualBox
+ A Linux VM
+- Kali Linux recommended, but any modern linux VM should be fine
+  An IDE for our coding
+- VS Code
+  Version control / Hosting
+- Git / Github
