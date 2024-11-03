@@ -11,13 +11,8 @@ These notes and exercises are part of the Secure Computing and Cryptography modu
 ### Lab 1B - Code Breaking Challenge;
 ### Lab 2A - Simplified OTP;
 ### Lab 2B - Numbers Station Challenge;
-
-### @@ -22,8 +22,8 @@ Lab 2B - Numbers Station Challenge;
 ### Lab 5A - Introduction to Hashing;
 ### Lab 5B - Breaking Salted Hashes Challenge;
-
-### Lab 6A - Python Challenge - Simple Hash Chains;
-### Lab 6B - Python Challenge - Credit Card Verifier;
 ### Lab 6A - Python Challenge - Simple Hash Chains;
 ### Lab 6B - Python Challenge - Credit Card Verifier;
 
