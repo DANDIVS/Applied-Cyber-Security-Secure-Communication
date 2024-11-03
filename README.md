@@ -1,11 +1,10 @@
-## Applied-Cyber-Security-Secure-Communication
-# Applied Cyber Security Secure Communication
-# Secure Communications
-Dante Divinagracia
+## Applied-Cyber-Security-Secure Computing and Cryptography
+
+# Dante Divinagracia
 Msc-Applied CyberSecurity
 School of Informatics and Cyber Security
 Technological University Dublin -
-These notes and exercises are part of the Secure Communications module on the Applied Cyber Security course at Technological University Dublin.
+These notes and exercises are part of the Secure Computing and Cryptography module on the Applied Cyber Security course at Technological University Dublin.
 
 # Course Lab Notes:
 # Lab 1A - Decoding Classic Ciphers                                                      
